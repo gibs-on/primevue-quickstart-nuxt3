@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "nuxt3": "latest",
-    "primevue": "3.8.1"
+    "primevue": "3.8.2"
   },
   "dependencies": {
     "primeflex": "^2.0.0",
